@@ -31,9 +31,9 @@ Traffic management is a critical component in urban planning, aiming to reduce c
 ## AI Techniques in Traffic Management
 
 The paper discusses several AI techniques including:
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-brightgreen) **Machine Learning:** Algorithms for predicting traffic patterns and optimizing traffic signals.
-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Utilized-blueviolet) **Deep Learning:** Advanced models for real-time traffic monitoring and incident detection.
-- ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Applied-yellowgreen) **Reinforcement Learning:** Approaches for adaptive traffic control and route optimization.
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning--brightgreen) **Machine Learning:** Algorithms for predicting traffic patterns and optimizing traffic signals.
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning--blueviolet) **Deep Learning:** Advanced models for real-time traffic monitoring and incident detection.
+- ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning--yellowgreen) **Reinforcement Learning:** Approaches for adaptive traffic control and route optimization.
 
 ## Applications
 
