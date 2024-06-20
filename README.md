@@ -1,8 +1,6 @@
 # Traffic Management Using AI - Review Paper
 
-![GitHub last commit](https://img.shields.io/github/last-commit/rishab1wnl/Traffic-Management-Review-Paper)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rishab1wnl/Traffic-Management-Review-Paper)
-![GitHub stars](https://img.shields.io/github/stars/rishab1wnl/Traffic-Management-Review-Paper?style=social)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning--brightgreen)
 ![Traffic Management](https://img.shields.io/badge/Traffic%20Management--orange)
