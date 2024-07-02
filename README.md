@@ -57,3 +57,4 @@ For a detailed list of references, please refer to the paper.
 The review paper can be accessed and downloaded from the repository. Click the link below to view the document:
 
 [Download the Review Paper](https://github.com/rishab1wnl/Traffic-Management-Review-Paper/blob/main/Traffic%20Management%20Using%20AI%20-%20Review%20Paper.pdf)
+ > *This project was developed with ❤️ and ☕ by [rishab1wnl](https://github.com/rishab1wnl) *
